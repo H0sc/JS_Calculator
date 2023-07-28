@@ -39,4 +39,5 @@ A calculator purely written with JavaScript
 
 #### Button-Logik
 
-- Zahlen: Zahl wird bei Klick an die vorige Zahl im Inputfeld angefügt.
+- Zahlen: Zahl wird bei Klick an die vorige Zahl im Inputfeld angefügt. []
+- Zahlen: Kommastellen implementieren. parseFloat
