@@ -44,12 +44,12 @@ body {
   grid-column: span 2;
 }
 
-.container .operational-area .operands {
+.container .operational-area .operators {
   display: grid;
   grid-template-rows: auto auto auto auto;
   gap: 5px;
 }
-.container .operational-area .operands button {
+.container .operational-area .operators button {
   padding: 15px;
 }
 
